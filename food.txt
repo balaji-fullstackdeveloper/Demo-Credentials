@@ -1,0 +1,28 @@
+**USER CREDENTIALS**
+
+ID
+balaji@gmail.com
+
+PASSWORD
+12345678
+
+**ADMIN CREDENTIALS**
+
+ID
+admin@gmail.com
+
+PASSWORD
+12345678
+
+
+FRONT-END DEPLOYED URL
+https://cerulean-squirrel-ea5cb5.netlify.app/
+
+SOURCE URL
+https://github.com/balaji-fullstackdeveloper/FOOD-DELIVERY
+
+ADMIN DEPLOYED URL
+https://food-delivery-admin-e7t0.onrender.com/
+
+BACK-END DEPLOYED URL
+https://food-delivery-backend-server-y65q.onrender.com
