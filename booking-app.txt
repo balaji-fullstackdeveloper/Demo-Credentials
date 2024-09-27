@@ -1,0 +1,17 @@
+**USER CREDENTIALS**
+
+ID
+balaji@gmail.com
+
+PASSWORD
+123456
+
+
+FRONT-END DEPLOYED URL
+https://main--balaji-holidays.netlify.app
+
+SOURCE URL
+https://github.com/balaji-fullstackdeveloper/Hotel-Booking-App
+
+BACK-END DEPLOYED URL
+https://food-delivery-backend-server-y65q.onrender.com
