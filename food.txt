@@ -25,4 +25,4 @@ ADMIN DEPLOYED URL
 https://food-delivery-admin-e7t0.onrender.com/
 
 BACK-END DEPLOYED URL
-https://hotel-booking-app-2zqy.onrender.com
+https://food-delivery-backend-server-y65q.onrender.com
