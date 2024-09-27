@@ -1,0 +1,28 @@
+**USER CREDENTIALS**
+
+ID
+balaji@gmail.com
+
+PASSWORD
+123456
+
+**ADMIN CREDENTIALS**
+
+ID
+admin@gmail.com
+
+PASSWORD
+123456
+
+
+FRONT-END DEPLOYED URL
+https://66f154213e2f92e1e894908a--thunderous-croissant-c12998.netlify.app/
+
+FRONT-END SOURCE URL
+https://github.com/balaji-fullstackdeveloper/Ecommerce-FrontEnd
+
+BACK-END DEPLOYED URL
+https://ecommerce-backend-3phr.onrender.com
+
+BACK-END SOURCE URL
+https://github.com/balaji-fullstackdeveloper/Ecommerce-BackEnd
